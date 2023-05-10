@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BBWorksB
-- 👀 I’m interested in Multimedia University of Kenya
-- 🌱 I'currently doing a certification on Data Science
+- 👀 I’m a graduate from the Multimedia University of Kenya
+- 🌱 Currently doing a certification on Data Science
 - 💞️ I’m looking to collaborate on any data science project.
 - 📫 Reach out to be via bonnybaraka001@gmail.com
 
