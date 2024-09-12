@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @BBWorksB
-- 👀 I’m a graduate of the Multimedia University of Kenya
+- 👋 Hi, I’m Manyara Baraka
 - 🌱 Certified Data Scientist and machine learning engineer
 - 💞️ I’m looking to collaborate on any data science project.
 - 📫 Reach out to me via bonnybaraka001@gmail.com
