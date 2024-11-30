@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Manyara Baraka
+- 👋 Hi, I’m Manyara Baraka, a graduate of Carnegie Mellon University-Africa,
 - 🌱 Certified Data Scientist and machine learning engineer
 - 💞️ I’m looking to collaborate on any data science project.
 - 📫 Reach out to me via bonnybaraka001@gmail.com
