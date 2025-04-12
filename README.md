@@ -106,7 +106,8 @@ Integrated pixel-perfect UI designs, improving the app’s visual consistency an
 
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=flutter,python,nuxtjs,vuejs,githubactions,firebase,golang,flask,postman,docker,kubernetes,prometheus,tensorflow,gcp,aws,github,raspberrypi,pytorch,sklearn&perline=19" alt="Skill Icons">
+<!--     <img src="https://skillicons.dev/icons?i=flutter,python,nuxtjs,vuejs,githubactions,firebase,golang,flask,postman,docker,kubernetes,prometheus,tensorflow,gcp,aws,github,raspberrypi,pytorch,sklearn&perline=19" alt="Skill Icons"> -->
+    <img src="https://skillicons.dev/icons?i=python,nltk,tensorflow,keras,sklearn,numpy,opencv,spark,docker,kubernetes,postman,github,raspberrypi,pytorch&perline=10" alt="Skill Icons">
   </a>
 </p>
 
